@@ -1,17 +1,17 @@
 {
-    "Chat 1": [
+    "chat1": [
       {
         "message": 1,
         "id": "player1"
       }
     ],
-    "Chat 2": [
+    "chat2": [
       {
         "message": 1,
         "id": "player2"
       }
     ],
-    "Chat 3": [
+    "chat3": [
       {
         "message": 1,
         "id": "player3"
