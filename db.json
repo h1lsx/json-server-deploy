@@ -2,24 +2,22 @@
     "chat1": [
       {
         "message": 1,
-        "id": "player1"
+        "user": "player1",
+        "id": 1
       }
     ],
     "chat2": [
       {
         "message": 1,
-        "id": "player2"
+        "user": "player2",
+        "id": 1
       }
     ],
     "chat3": [
       {
         "message": 1,
-        "id": "player3"
+        "user": "player3",
+        "id": 1
       }
-    ],
-    "id": [
-        {
-            "id": 1
-        }
     ]
 }
